@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#time {
+    font-size: 36px;
+    border: 2px solid #333;
+    padding: 10px; 
+}
+#text {
+    font-size: 36px;
+    border: 2px solid #333;
+    padding: 10px; 
+}
